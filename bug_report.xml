@@ -1,1 +1,18 @@
-
+<?xml version="1.0" encoding="windows-1251"?>
+<Data>
+   <Type>bug report</Type>
+   <Header>
+      <ID>1</ID>
+      <Status>created</Status>
+      <Severity>critical</Severity>
+      <BugSummary>Login form hasn't OK button</BugSummary>
+   </Header>
+   <Body>
+     <ReproduceSteps>
+        <Step01>Run application</Step01>
+        <Step02>Wait while login form loaded</Step02>
+     </ReproduceSteps>
+     <Result>login form loaded, but there isn't OK button</Result>
+     <ExpectedResult>login form loaded, OK button is on the right bottom corner of form</ExpectedResult>
+   </Body>
+</Data>
