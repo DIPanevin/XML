@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Acquired>
+   <SoftSkills>
+      <SS01>flexibility</SS01>
+      <SS02>communication</SS02>
+      <SS03>lead ability</SS03>
+      <SS04>positivity</SS04>
+   </SoftSkills>
+   <HardSkills>
+      <HS01>JSON</HS01>
+      <HS02>JavaScript</HS02>
+      <HS03>Postman</HS03>
+      <HS04>Jira</HS04>
+      <HS05>Agile</HS05>
+      <HS06>Terminal<HS06>
+      <HS07>GIT</HS07>
+      <HS08>Python</HS08>
+      <HS09>Charles</HS09>
+      <HS10>SQL</HS10>
+      <HS11>HTML</HS11>
+   </Hardskills>
+</Acquired>
